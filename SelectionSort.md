@@ -1,4 +1,4 @@
-# Insertion Sort 
+# S Sort 
 ### [22,27,16,2,18,6] verilen dizinin sort türüne göre aşamalarını yazınız
   1. [2,27,16,22,18,6]
   2. [2,6,16,22,18,27]
